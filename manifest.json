@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "name": "Gary Crawford MDLists",
   "description": "Curated Fusion catalog of Gary's MDLists",
-  "types": ["catalog"],
   "resources": [
     {
       "name": "Gary's MDLists Catalog",
       "type": "catalog",
+      "types": ["movie", "series"],
       "catalogs": [
         { "id": "gary-latest-tv-shows", "name": "Latest TV Shows", "type": "series", "url": "https://mdblist.com/lists/garycrawfordgc/latest-tv-shows" },
         { "id": "gary-latest-bluray", "name": "Latest Blu-ray Releases", "type": "movie", "url": "https://mdblist.com/lists/garycrawfordgc/latest-blu-ray-releases" },
