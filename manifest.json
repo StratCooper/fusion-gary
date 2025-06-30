@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "name": "Gary Crawford MDLists",
   "description": "Curated Fusion catalog of Gary's MDLists",
+  "types": ["catalog"],
   "resources": [
     {
       "name": "Gary's MDLists Catalog",
