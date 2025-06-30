@@ -1,0 +1,43 @@
+{
+  "id": "gary-mdlists",
+  "version": "1.0.0",
+  "name": "Gary Crawford MDLists",
+  "description": "Curated Fusion catalog of Gary's MDLists",
+  "resources": [
+    {
+      "name": "Gary's MDLists Catalog",
+      "type": "catalog",
+      "catalogs": [
+        { "id": "gary-latest-tv-shows", "name": "Latest TV Shows", "type": "series", "url": "https://mdblist.com/lists/garycrawfordgc/latest-tv-shows" },
+        { "id": "gary-latest-bluray", "name": "Latest Blu-ray Releases", "type": "movie", "url": "https://mdblist.com/lists/garycrawfordgc/latest-blu-ray-releases" },
+        { "id": "gary-top-week", "name": "Top Movies of the Week", "type": "movie", "url": "https://mdblist.com/lists/garycrawfordgc/top-movies-of-the-week" },
+        { "id": "gary-top-movies", "name": "Top Movies", "type": "movie", "url": "https://mdblist.com/lists/garycrawfordgc/top-movies" },
+        { "id": "gary-netflix-shows", "name": "Netflix Shows", "type": "series", "url": "https://mdblist.com/lists/garycrawfordgc/netflix-shows" },
+        { "id": "gary-hbo-shows", "name": "HBO Shows", "type": "series", "url": "https://mdblist.com/lists/garycrawfordgc/hbo-shows" },
+        { "id": "gary-bbc-shows", "name": "BBC Shows", "type": "series", "url": "https://mdblist.com/lists/garycrawfordgc/bbc-shows" },
+        { "id": "gary-amazon-shows", "name": "Amazon Prime Shows", "type": "series", "url": "https://mdblist.com/lists/garycrawfordgc/amazon-prime-shows" },
+        { "id": "gary-hulu-shows", "name": "Hulu Shows", "type": "series", "url": "https://mdblist.com/lists/garycrawfordgc/hulu-shows" },
+        { "id": "gary-disney-shows", "name": "Disney Shows", "type": "series", "url": "https://mdblist.com/lists/garycrawfordgc/disney-shows" },
+        { "id": "gary-channel4-shows", "name": "Channel 4 Shows", "type": "series", "url": "https://mdblist.com/lists/garycrawfordgc/channel-4-shows" },
+        { "id": "gary-netflix-movies", "name": "Netflix Movies", "type": "movie", "url": "https://mdblist.com/lists/garycrawfordgc/netflix-movies" },
+        { "id": "gary-amazon-movies", "name": "Amazon Prime Movies", "type": "movie", "url": "https://mdblist.com/lists/garycrawfordgc/amazon-prime-movies" },
+        { "id": "gary-disney-movies", "name": "Disney Movies", "type": "movie", "url": "https://mdblist.com/lists/garycrawfordgc/disney-movies" },
+        { "id": "gary-hulu-movies", "name": "Hulu Movies", "type": "movie", "url": "https://mdblist.com/lists/garycrawfordgc/hulu-movies" },
+        { "id": "gary-drama", "name": "Drama", "type": "movie", "url": "https://mdblist.com/lists/garycrawfordgc/drama" },
+        { "id": "gary-action", "name": "Action", "type": "movie", "url": "https://mdblist.com/lists/garycrawfordgc/action" },
+        { "id": "gary-comedy", "name": "Comedy", "type": "movie", "url": "https://mdblist.com/lists/garycrawfordgc/comedy" },
+        { "id": "gary-crime", "name": "Crime", "type": "movie", "url": "https://mdblist.com/lists/garycrawfordgc/crime" },
+        { "id": "gary-history", "name": "History", "type": "movie", "url": "https://mdblist.com/lists/garycrawfordgc/history" },
+        { "id": "gary-horror", "name": "Horror", "type": "movie", "url": "https://mdblist.com/lists/garycrawfordgc/horror" },
+        { "id": "gary-thriller", "name": "Thriller", "type": "movie", "url": "https://mdblist.com/lists/garycrawfordgc/thriller" },
+        { "id": "gary-war", "name": "War", "type": "movie", "url": "https://mdblist.com/lists/garycrawfordgc/war" },
+        { "id": "gary-sci-fi", "name": "Sci-Fi", "type": "movie", "url": "https://mdblist.com/lists/garycrawfordgc/sci-fi" },
+        { "id": "gary-comedy-shows", "name": "Comedy Shows", "type": "series", "url": "https://mdblist.com/lists/garycrawfordgc/comedy-shows" },
+        { "id": "gary-drama-shows", "name": "Drama Shows", "type": "series", "url": "https://mdblist.com/lists/garycrawfordgc/drama-shows" },
+        { "id": "gary-horror-shows", "name": "Horror Shows", "type": "series", "url": "https://mdblist.com/lists/garycrawfordgc/horror-shows" },
+        { "id": "gary-sci-fi-shows", "name": "Sci-Fi Shows", "type": "series", "url": "https://mdblist.com/lists/garycrawfordgc/sci-fi-shows" },
+        { "id": "gary-crime-shows", "name": "Crime Shows", "type": "series", "url": "https://mdblist.com/lists/garycrawfordgc/crime-shows" }
+      ]
+    }
+  ]
+}
